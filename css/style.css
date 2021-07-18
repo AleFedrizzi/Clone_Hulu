@@ -339,6 +339,7 @@ h4{
 .footer-lists{
     display: flex;
     justify-content: space-between;
+    font-size: 13px;
 }
 
 .footer-lists .list-head{
